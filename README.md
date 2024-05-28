@@ -11,5 +11,11 @@
 - **Chainable API**: Fluent interface for method chaining.
 
 ## Installation
+using NPM:
 ```bash
-Install momentino via npm:
+npm i momentino
+```
+using YARN:
+```bash
+yarn add momentino
+```
